@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andreamiele
-- 👀 I’m interested in science, maths and photography
-- 🌱 I’m currently learning maths and physics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Maths, AI and Photography
+- 🌱 I’m currently learning Computer Science and AI
+- 💞️ I’m looking to collaborate on projets! Don't hesitate to contact me!
 - 📫 How to reach me :
 
 <div align="center">
