@@ -23,7 +23,7 @@
   
   <div id="badges">
     <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={andreamiele}&theme=vue">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreamiele&theme=nord_dark" alt="LinkedIn Badge" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreamiele" alt="LinkedIn Badge" />
     </a>
     <a href="">
       <img src="https://github-readme-stats.vercel.app/api?username=andreamiele" alt="Portfolio Badge" />
