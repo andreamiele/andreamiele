@@ -26,10 +26,10 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreamiele&theme=nord_dark" alt="LinkedIn Badge" />
     </a>
     <a href="">
-      <img src="https://github-readme-stats.vercel.app/api?username={andreamiele}" alt="Portfolio Badge" />
+      <img src="https://github-readme-stats.vercel.app/api?username=andreamiele" alt="Portfolio Badge" />
     </a>
     <a href="">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user={andreamiele}" alt="CV/Resume Badge" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreamiele" alt="CV/Resume Badge" />
     </a>
     
   </div>
