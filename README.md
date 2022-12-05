@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/andrea-miele-/">
       <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
-    <a href="">
+    <a href="https://andreamiele.github.io">
       <img src="https://img.shields.io/badge/Portfolio-critical?style=for-the-badge" alt="Portfolio Badge" />
     </a>
     <a href="">
