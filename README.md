@@ -29,7 +29,7 @@
     <a href="https://github-readme-stats.vercel.app/api?username=andreamiele">
       <img src="https://github-readme-stats.vercel.app/api?username=andreamiele" alt="Portfolio Badge" />
     </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=andreamiel">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=andreamiele">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreamiele" alt="CV/Resume Badge" />
     </a>
     
