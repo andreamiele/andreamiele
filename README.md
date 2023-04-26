@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Computer Science and AI.
 - ✨ I also love competitive programming!
 - 📖 You can have a look at [my website](https://andreamiele.fr/) and [my blog](https://andreamiele.github.io/blog/)!
-- 📚 I'm trying to publish some ressources online when I can write! Have a look [here](https://andreamiele.fr/resources.html)!
+- 📚 I'm trying to publish some ressources online when I can write! I strive to make my pedagogical resources available to everyone.
+Unless otherwise stated, they are free to reuse under a Creative Commons BY-NC-SA license for text and MIT for source code. Most of them are open-sourced on GitHub. Have a look [here](https://andreamiele.fr/resources.html)!
 - 💞️ I’m looking to collaborate on projets! Don't hesitate to contact me!
 - 📫 How to reach me :
 
