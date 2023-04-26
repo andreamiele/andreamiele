@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @andreamiele
 
-- 👀 I’m interested in Maths, AI and Photography. I'm currently looking for a Master in Computer Science and would love to do **Research in Artificial Intelligence**!
-- 🌱 I’m currently learning Computer Science and AI.
+- 👀 I’m interested in Maths, AI and Photography. I'm currently looking for a Master in Computer Science and striving to do **Research in Artificial Intelligence**!
+- 🌱 I’m currently looking for a Master in Computer Science and AI.
 - ✨ I also love competitive programming!
-
+- I founded intend., an media about AI mid-2023. You can have a look [here]()!
 - 📖 You can have a look at [my website](https://andreamiele.fr/) and [my blog](https://andreamiele.github.io/blog/)!
 - 📚 I'm trying to publish some ressources online when I can write! I strive to make my pedagogical resources available to everyone.
 Unless otherwise stated, they are free to reuse under a Creative Commons BY-NC-SA license for text and MIT for source code. Most of them are open-sourced on GitHub. Have a look [here](https://andreamiele.fr/resources.html)!
