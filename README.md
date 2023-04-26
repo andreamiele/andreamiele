@@ -2,6 +2,7 @@
 - 👀 I’m interested in Maths, AI and Photography. I'm currently looking for a Master in Computer Science.
 - 🌱 I’m currently learning Computer Science and AI.
 - ✨ I also love competitive programming!
+- 📚 You can have a look at [my blog](https://andreamiele.github.io/blog/)!
 - 💞️ I’m looking to collaborate on projets! Don't hesitate to contact me!
 - 📫 How to reach me :
 
