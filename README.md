@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @andreamiele
 
-- 👀 I’m interested in Maths, AI and Photography. I'm currently pursuing a Master in Computer Science at EPFL and striving to do **Research in Artificial Intelligence**!
-- ✨ I also love competitive programming!
-- 📖 You can have a look at [my website](https://andreamiele.fr/) and [my blog](https://andreamiele.github.io/blog/)!
+- 👀 I’m interested in discrete diffusion/flow matching models, RL and Photography. I'm currently pursuing a Master in Computer Science at EPFL and striving to do **Research in Artificial Intelligence**!
+- 📖 You can have a look at [my website](https://andreamiele.fr/)!
 - 📚 I'm trying to publish some ressources online when I can write! I strive to make my pedagogical resources available to everyone.
-Unless otherwise stated, they are free to reuse under a Creative Commons BY-NC-SA license for text and MIT for source code. Most of them are open-sourced on GitHub. Have a look [here](https://andreamiele.fr/resources.html)!
+Unless otherwise stated, they are free to reuse under a Creative Commons BY-NC-SA license for text and MIT for source code. Most of them are open-sourced on GitHub.
 
 - 💞️ I’m looking to collaborate on projets! Don't hesitate to contact me!
 - 📫 How to reach me :
@@ -17,12 +16,6 @@ Unless otherwise stated, they are free to reuse under a Creative Commons BY-NC-S
     </a>
     <a href="https://andreamiele.github.io">
       <img src="https://img.shields.io/badge/Portfolio-critical?style=for-the-badge" alt="Portfolio Badge" />
-    </a>
-    <a href="">
-      <img src="https://img.shields.io/badge/-Resume%2FCV-blueviolet?style=for-the-badge" alt="CV/Resume Badge" />
-    </a>
-    <a href="">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
     </a>
   </div>
   
