@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreamiele
 
-- 👀 I’m interested in discrete diffusion/flow matching models, RL and Photography. I'm currently pursuing a Master in Computer Science at EPFL and striving to do **Research in Artificial Intelligence**!
+- 👀 I’m interested in discrete diffusion/flow matching models, RL. I completed a Master in Computer Science at EPFL and striving to do **Research in Artificial Intelligence**!
 - 📖 You can have a look at [my website](https://andreamiele.fr/)!
 - 📚 I'm trying to publish some ressources online when I can write! I strive to make my pedagogical resources available to everyone.
 Unless otherwise stated, they are free to reuse under a Creative Commons BY-NC-SA license for text and MIT for source code. Most of them are open-sourced on GitHub.
